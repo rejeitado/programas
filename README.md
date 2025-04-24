@@ -8,20 +8,21 @@ Photoshop
 Vegas Pro 18
 
 #Informações
-CPU-Z
+<br />CPU-Z
 CrystalDiskInfo
 CrystalDiskMark
 GPU-Z
 HW Monitor
 
 #Office
+<br />
 
 #Navegadores
-Chorme
+<br />Chorme
 Opera GX
 
 #Programas
-Discord
+<br />Discord
 OBS Stream Elements
 Parsec
 Telegram
