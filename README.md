@@ -36,7 +36,7 @@
 <br />- [Ubisoft Connect](https://www.ubisoft.com/pt-br/ubisoft-connect/download)
 
 #Office
-<br />- [https://massgrave.dev/](https://massgrave.dev/genuine-installation-media) 
+<br />- [MAS](https://massgrave.dev/genuine-installation-media) 
 
 #Navegadores
 <br />- [Brave](https://brave.com/pt-br/download/)
