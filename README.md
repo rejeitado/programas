@@ -14,6 +14,13 @@
 <br />- [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
 <br />- [HW Monitor](https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.57.exe)
 
+#Launcher
+<br />- [Battle.net](https://download.battle.net/pt-br/?product=bnetdesk)
+<br />- [Epic](https://store.epicgames.com/pt-BR/)
+<br />- [GOG Galaxy 2.0](https://www.gog.com/galaxy)
+<br />- [Steam](https://store.steampowered.com/about/download)
+
+
 #Office
 <br />- 
 
