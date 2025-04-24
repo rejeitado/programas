@@ -1,7 +1,7 @@
 # programas
 
 #Editores
-Adobe After Effects
+<br />Adobe After Effects
 Davinci Resolve
 Microsoft ClimpChamp
 Photoshop
