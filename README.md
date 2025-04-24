@@ -1,5 +1,9 @@
 # programas
 
+<br />- []()
+#Drivers
+<br />- [B450M Steel Legends](https://www.asrock.com/mb/AMD/B450M%20Steel%20Legend/index.br.asp#Download)
+
 #Editores
 <br />- Adobe After Effects
 <br />- Davinci Resolve
@@ -18,7 +22,9 @@
 <br />- [Battle.net](https://download.battle.net/pt-br/?product=bnetdesk)
 <br />- [Epic](https://store.epicgames.com/pt-BR/)
 <br />- [GOG Galaxy 2.0](https://www.gog.com/galaxy)
+<br />- []()
 <br />- [Steam](https://store.steampowered.com/about/download)
+<br />- []()
 
 
 #Office
@@ -29,6 +35,7 @@
 <br />- [Opera GX](https://www.opera.com/pt-br/gx)
 
 #Programas
+<br />- [µTorrent](https://www.utorrent.com/intl/pt_br/)
 <br />- [Discord](https://discord.com/download)
 <br />- [OBS StreamElements](https://streamelements.com/obslive)
 <br />- [Parsec](https://parsec.app/downloads)
