@@ -8,23 +8,23 @@
 <br />- Vegas Pro 18
 
 #Informações
-<br />- CPU-Z
-<br />- CrystalDiskInfo
-<br />- CrystalDiskMark
-<br />- GPU-Z
-<br />- HW Monitor
+<br />- [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_2.15-en.exe)
+<br />- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+<br />- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskinfo/)
+<br />- [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
+<br />- [HW Monitor](https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.57.exe)
 
 #Office
 <br />- 
 
 #Navegadores
-<br />- Chorme
-<br />- Opera GX
+<br />- [Chorme](https://www.google.com/intl/pt-BR/chrome/)
+<br />- [Opera GX](https://www.opera.com/pt-br/gx)
 
 #Programas
-<br />- Discord
-<br />- OBS Stream Elements
-<br />- Parsec
+<br />- [Discord](https://discord.com/download)
+<br />- [OBS StreamElements](https://streamelements.com/obslive)
+<br />- [Parsec](https://parsec.app/downloads)
 <br />- [Telegram](https://desktop.telegram.org/)
-<br />- Thunder Store
+<br />- [Thunderstore](https://thunderstore.io/)
 <br />- [VLC](https://www.videolan.org/vlc/)
