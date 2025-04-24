@@ -20,11 +20,11 @@
 <br />- [HW Monitor](https://www.cpuid.com/softwares/hwmonitor.html)
 
 #Games
-<br />- [HoYoPlay]()
-<br />- [League Of Legends]()
-<br />- [osu!]()
-<br />- [Roblox]()
-<br />- [Valorant]()
+<br />- [HoYoPlay](https://hoyoplay.hoyoverse.com/)
+<br />- [League Of Legends](https://www.leagueoflegends.com/pt-br/download/)
+<br />- [osu!](https://osu.ppy.sh/home/download)
+<br />- [Roblox](https://www.roblox.com/pt/download)
+<br />- [Valorant](https://playvalorant.com/pt-br/download/)
 
 #Launcher
 <br />- [Battle.net](https://download.battle.net/pt-br/?product=bnetdesk)
