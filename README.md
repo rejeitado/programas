@@ -6,7 +6,7 @@
 <br />- [Nvidia App](https://www.nvidia.com/pt-br/software/nvidia-app/)
 
 #Editores
-<br />- [Adobe After Effects 2020](https://drive.google.com/drive/folders/18brKeKvkFfkDY9AwUnbio9-IQb8f4N9Y) Plugins](https://drive.google.com/drive/folders/1-LnY5JUTkqdJtk-BcvFWT2WdU1WfHYnx)
+<br />- [Adobe After Effects 2020](https://drive.google.com/drive/folders/18brKeKvkFfkDY9AwUnbio9-IQb8f4N9Y) [Plugins](https://drive.google.com/drive/folders/1-LnY5JUTkqdJtk-BcvFWT2WdU1WfHYnx)
 <br />- [Davinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve)
 <br />- [Microsoft ClimpChamp](https://apps.microsoft.com/detail/9P1J8S7CCWWT?hl=pt-br&gl=BR&ocid=pdpshare)
 <br />- [Photoshop 2020](https://www.mediafire.com/file/1e5c6qvn1qg0mjt/Photoshop_2020.zip/file)
