@@ -2,28 +2,28 @@
 
 #Editores
 <br />Adobe After Effects
-Davinci Resolve
-Microsoft ClimpChamp
-Photoshop
-Vegas Pro 18
+<br />Davinci Resolve
+<br />Microsoft ClimpChamp
+<br />Photoshop
+<br />Vegas Pro 18
 
 #Informações
 <br />CPU-Z
-CrystalDiskInfo
-CrystalDiskMark
-GPU-Z
-HW Monitor
+<br />CrystalDiskInfo
+<br />CrystalDiskMark
+<br />GPU-Z
+<br />HW Monitor
 
 #Office
 <br />
 
 #Navegadores
 <br />Chorme
-Opera GX
+<br />Opera GX
 
 #Programas
 <br />Discord
-OBS Stream Elements
-Parsec
-Telegram
-Thunder Store
+<br />OBS Stream Elements
+<br />Parsec
+<br />Telegram
+<br />Thunder Store
