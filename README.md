@@ -25,6 +25,6 @@
 <br />- Discord
 <br />- OBS Stream Elements
 <br />- Parsec
-<br />- Telegram
+<br />- [Telegram](https://desktop.telegram.org/)
 <br />- Thunder Store
 <br />- [VLC](https://www.videolan.org/vlc/)
