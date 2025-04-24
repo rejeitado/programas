@@ -1,8 +1,9 @@
 # programas
 
-<br />- []()
 #Drivers
 <br />- [B450M Steel Legends](https://www.asrock.com/mb/AMD/B450M%20Steel%20Legend/index.br.asp#Download)
+<br />- []()
+<br />- []()
 
 #Editores
 <br />- Adobe After Effects
@@ -12,11 +13,18 @@
 <br />- Vegas Pro 18
 
 #Informações
-<br />- [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_2.15-en.exe)
+<br />- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 <br />- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 <br />- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskinfo/)
 <br />- [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/)
-<br />- [HW Monitor](https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.57.exe)
+<br />- [HW Monitor](https://www.cpuid.com/softwares/hwmonitor.html)
+
+#Games
+<br />- [League Of Legends]()
+<br />- [Valorant]()
+<br />- [osu!]()
+<br />- [HoYoPlay]()
+<br />- [Roblox]()
 
 #Launcher
 <br />- [Battle.net](https://download.battle.net/pt-br/?product=bnetdesk)
@@ -26,11 +34,11 @@
 <br />- [Steam](https://store.steampowered.com/about/download)
 <br />- []()
 
-
 #Office
-<br />- 
+<br />- []() 
 
 #Navegadores
+<br />- [Brave]()
 <br />- [Chorme](https://www.google.com/intl/pt-BR/chrome/)
 <br />- [Opera GX](https://www.opera.com/pt-br/gx)
 
@@ -41,4 +49,5 @@
 <br />- [Parsec](https://parsec.app/downloads)
 <br />- [Telegram](https://desktop.telegram.org/)
 <br />- [Thunderstore](https://thunderstore.io/)
+<br />- []()
 <br />- [VLC](https://www.videolan.org/vlc/)
