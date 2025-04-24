@@ -6,11 +6,11 @@
 <br />- [Nvidia App](https://www.nvidia.com/pt-br/software/nvidia-app/)
 
 #Editores
-<br />- Adobe After Effects
-<br />- Davinci Resolve
-<br />- Microsoft ClimpChamp
-<br />- Photoshop
-<br />- Vegas Pro 18
+<br />- [Adobe After Effects 2020](https://drive.google.com/drive/folders/18brKeKvkFfkDY9AwUnbio9-IQb8f4N9Y)
+<br />- [Davinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve)
+<br />- [Microsoft ClimpChamp](https://apps.microsoft.com/detail/9P1J8S7CCWWT?hl=pt-br&gl=BR&ocid=pdpshare)
+<br />- [Photoshop 2020](https://www.mediafire.com/file/1e5c6qvn1qg0mjt/Photoshop_2020.zip/file)
+<br />- [Vegas Pro 18](https://drive.google.com/drive/folders/1YGRA6iy4-T00gZ72ILM7nnT7CL4bdovf)
 
 #Informações
 <br />- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
