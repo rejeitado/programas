@@ -10,7 +10,7 @@
 <br />- [Davinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve)
 <br />- [Microsoft ClimpChamp](https://apps.microsoft.com/detail/9P1J8S7CCWWT?hl=pt-br&gl=BR&ocid=pdpshare)
 <br />- [Photoshop 2020](https://www.mediafire.com/file/1e5c6qvn1qg0mjt/Photoshop_2020.zip/file)
-<br />- [Vegas Pro 18](https://drive.google.com/drive/folders/1YGRA6iy4-T00gZ72ILM7nnT7CL4bdovf)
+<br />- [Vegas Pro 18](https://drive.google.com/drive/folders/1YGRA6iy4-T00gZ72ILM7nnT7CL4bdovf) / [Plugins](https://drive.google.com/drive/folders/1Q2bv51whNXM_1wMq3gvzL7sBYSe5xnE4)
 
 #Informações
 <br />- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
