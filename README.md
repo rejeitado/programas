@@ -56,3 +56,4 @@
 <br />- [Thunderstore](https://thunderstore.io/)
 <br />- [Visual Studio Code]()
 <br />- [VLC](https://www.videolan.org/vlc/)
+<br />- [Winrar](https://www.win-rar.com/start.html?&L=9)
