@@ -27,3 +27,4 @@
 <br />- Parsec
 <br />- Telegram
 <br />- Thunder Store
+<br />- VLC https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe
