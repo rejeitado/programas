@@ -31,7 +31,7 @@
 <br />- [EA App](https://www.ea.com/pt-br/ea-app)
 <br />- [Epic](https://store.epicgames.com/pt-BR/)
 <br />- [GOG Galaxy 2.0](https://www.gog.com/galaxy)
-<br />- []()
+<br />- [Rockstar Games](https://socialclub.rockstargames.com/)
 <br />- [Steam](https://store.steampowered.com/about/download)
 <br />- [Ubisoft Connect](https://www.ubisoft.com/pt-br/ubisoft-connect/download)
 
@@ -46,6 +46,7 @@
 #Programas
 <br />- [µTorrent](https://www.utorrent.com/intl/pt_br/)
 <br />- [Discord](https://discord.com/download)
+<br />- [JDK](https://www.oracle.com/br/java/technologies/downloads/) 
 <br />- [LightShot](https://app.prntscr.com/pt-br/download.html)
 <br />- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 <br />- [OBS StreamElements](https://streamelements.com/obslive)
