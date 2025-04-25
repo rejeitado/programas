@@ -38,6 +38,14 @@
 #Office
 <br />- [MAS](https://massgrave.dev/genuine-installation-media) 
 
+#OS
+<br />- [Fedora](https://fedoraproject.org/#editions)
+<br />- [Linux Mint](https://linuxmint.com/)
+<br />- [PopOS](https://system76.com/pop/download/)
+<br />- [Ubutu](https://ubuntu.com/download/desktop)
+<br />- [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10)
+<br />- [Windows 11](https://www.microsoft.com/pt-br/software-download/windows11)
+
 #Navegadores
 <br />- [Brave](https://brave.com/pt-br/download/)
 <br />- [Chorme](https://www.google.com/intl/pt-BR/chrome/)
