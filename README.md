@@ -62,6 +62,6 @@
 <br />- [ReDragon Cobra 711](https://www.redragon.com.br/cobra)
 <br />- [Telegram](https://desktop.telegram.org/)
 <br />- [Thunderstore](https://thunderstore.io/)
-<br />- [Visual Studio Code]()
+<br />- [Visual Studio Code](https://code.visualstudio.com/download)
 <br />- [VLC](https://www.videolan.org/vlc/)
 <br />- [Winrar](https://www.win-rar.com/start.html?&L=9)
